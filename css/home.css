@@ -104,11 +104,13 @@ header{
 .background{
     width: 100%;
     height: 46rem;
-    background-image: url(/people-hands-together.jpg);
+/*     background-image: url(/people-hands-together.jpg); */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     z-index: 222;
+    background: blue;
+    
 }
 
 .vail{
